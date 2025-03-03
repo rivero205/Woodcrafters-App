@@ -1,4 +1,4 @@
-# Sistema de Gestión WoodCrafters 🪚
+# Sistema de Gestión WoodCrafters 
 
 ## 📋 Descripción
 Sistema diseñado para la gestión de una carpintería, permitiendo el control de usuarios, clientes, productos y proveedores.
