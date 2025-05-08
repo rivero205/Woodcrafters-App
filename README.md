@@ -14,8 +14,8 @@ Sistema diseñado para la gestión de una carpintería, permitiendo el control d
 ## 🎥 Demo del Proyecto
 ![image](https://github.com/user-attachments/assets/50229fa0-7f04-4afe-9804-f12958966447)
 
-
-Ver demostración del sistema
+Demoestración:
+![video](https://github.com/user-attachments/assets/2c1bf9c3-826a-43a8-a12d-5d5c69fdcbfa)
 
 ## 🚀 Instalación
 
@@ -55,13 +55,5 @@ WoodCrafters/
 - Swing (Interfaces gráficas)
 - MySQL
 
-## ✒️ Autores
-
-* **Maicol Vivero** - [rivero205](https://github.com/rivero205)
-
-## 🔗 Enlaces
-
-* Repositorio: [https://github.com/rivero205/Woodcrafters-App](https://github.com/rivero205/Woodcrafters-App)
-
 ---
-⌨️ con ❤️ por [rivero205](https://github.com/rivero205)
+Construido con ❤️ por **Maicol Vivero** [rivero205](https://github.com/rivero205)
