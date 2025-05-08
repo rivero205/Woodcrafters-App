@@ -11,12 +11,10 @@ Sistema diseñado para la gestión de una carpintería, permitiendo el control d
 - Base de datos: `woodcrafters`
 - Drivers
 
-## Demo del Proyecto
+## 🎥 Demo del Proyecto
 ![image](https://github.com/user-attachments/assets/50229fa0-7f04-4afe-9804-f12958966447)
 
-## 🎥 Demostración
-
-[![Ver demostración](https://ruta-a-tu-thumbnail.png)](https://github.com/user-attachments/assets/93e6bf49-934d-406b-8d02-a9da4492c570)
+[![Ver demostración](https://ruta-a-tu-thumbnail.png)](https://github.com/user-attachments/assets/e56d4ca1-db41-47ef-81c6-297e72b78ef7)
 
 
 
