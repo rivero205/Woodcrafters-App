@@ -12,8 +12,8 @@ Sistema diseñado para la gestión de una carpintería, permitiendo el control d
 - Drivers
 
 ## 🎥 Demo del Proyecto
+![image](https://github.com/user-attachments/assets/50229fa0-7f04-4afe-9804-f12958966447)
 
-[![Video Demo](https://img.shields.io/badge/Video-Demo-red)](link_al_video)
 
 Ver demostración del sistema
 
