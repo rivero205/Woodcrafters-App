@@ -15,7 +15,9 @@ Sistema diseñado para la gestión de una carpintería, permitiendo el control d
 ![image](https://github.com/user-attachments/assets/50229fa0-7f04-4afe-9804-f12958966447)
 
 Demoestración:
-[Ver demostración](https://github.com/user-attachments/assets/2c1bf9c3-826a-43a8-a12d-5d5c69fdcbfa)
+https://github.com/user-attachments/assets/93e6bf49-934d-406b-8d02-a9da4492c570
+
+
 
 ## 🚀 Instalación
 
